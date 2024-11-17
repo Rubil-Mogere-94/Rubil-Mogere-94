@@ -26,15 +26,6 @@ I'm a **Software Engineer**, **Founder**, and **Owner of Moghe Empire** with a B
 As the founder and owner of **Moghe Empire**, I lead a team focused on product development, creating proprietary tech products to solve specific industry challenges. We specialize in building applications, SaaS platforms, and innovative tools designed to make a real-world impact.  
 **Key Focus Areas**: SaaS, Mobile and Web Applications, Industry-Specific Solutions
 
-### [Project Name](https://github.com/yourusername/projectname)
-Description of the project, highlighting its purpose and technologies used.  
-**Tech Stack**: JavaScript, Node.js, MongoDB  
-![Project Screenshot](https://link-to-screenshot.com)
-
-### [Another Project](https://github.com/yourusername/anotherproject)
-Brief description of what this project does.  
-**Tech Stack**: React, Express.js, PostgreSQL  
-![Project Screenshot](https://link-to-screenshot.com)
 
 ---
 
