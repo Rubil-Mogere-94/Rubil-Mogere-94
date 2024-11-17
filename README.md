@@ -29,14 +29,6 @@ As the founder and owner of **Moghe Empire**, I lead a team focused on product d
 
 ---
 
-## 📈 GitHub Stats
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" height="180em" />
-</div>
-
----
 
 ## 🌱 Currently Learning
 - Advanced JavaScript and TypeScript
