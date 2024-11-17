@@ -54,11 +54,7 @@ Brief description of what this project does.
 
 ---
 
-## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
-- [Twitter](https://twitter.com/yourprofile) 
-- [Personal Website](https://www.yourwebsite.com)
 
 ---
 
