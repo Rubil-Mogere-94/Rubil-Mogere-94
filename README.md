@@ -3,8 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Rubil-Mogere-94/Rubil-Mogere-94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rubil-mogere-6120b6307/)
 
-I'm a **Software Engineer**, **Founder**, and **Owner of Moghe Empire** with a Bachelor of Science in Information Technology from **Zetech University**. I’m passionate about building innovative solutions, learning cutting-edge technology, and driving impact through tech.
-
+I'm a **Software Engineer**, **Founder**, and **Owner of Moghe Empire** 
 ---
 
 ## 🛠 Tech Stack
