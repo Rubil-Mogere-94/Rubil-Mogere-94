@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Rubil-Mogere-94/Rubil-Mogere-94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rubil-mogere-6120b6307/)
 
-I'm a **Software Engineer**, **Founder**, and **Owner of Moghe Empire** 
+I'm a **Software Engineer**, **Founder** and **Owner of Moghe Empire** 
 ---
 
 ## 🛠 Tech Stack
