@@ -21,8 +21,7 @@ I'm a **Software Engineer**, **Founder**, and **Owner of Moghe Empire**
 
 ## 🚀 My Projects
 
-### Moghe Empire
-As the founder and owner of **Moghe Empire**, I lead a team focused on product development, creating proprietary tech products to solve specific industry challenges. We specialize in building applications, SaaS platforms, and innovative tools designed to make a real-world impact.  
+### Moghe Empire 
 **Key Focus Areas**: SaaS, Mobile and Web Applications, Industry-Specific Solutions
 
 
@@ -30,8 +29,7 @@ As the founder and owner of **Moghe Empire**, I lead a team focused on product d
 
 
 ## 🌱 Currently Learning
-- Advanced JavaScript and TypeScript
-- Cloud computing and DevOps
+- Advanced JavaScript 
 - Machine learning basics with Python
 
 ---
